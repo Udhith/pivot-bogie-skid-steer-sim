@@ -1,0 +1,19 @@
+# Geometry tagged src: cad comes from the user STEP model (tools/cad_to_params.py). Everything tagged assumed is still a placeholder. Units: SI.
+wheel_radius:   {value: 0.125, src: datasheet}   # Robokits 10in 36V 350W hub motor: tyre dia 25 cm (CAD gave 0.1326, ~6% larger)
+track_w:        {value: 0.3196, src: cad}   # driven-wheel track (pixel estimate)
+pivot_offset_e: {value: 0.0, src: cad}   # pivot-to-axle offset (near 0 in views)
+lever_l:        {value: 1.1335, src: cad}   # pivot to front-axle midpoint (SWEEP 0.6/0.9/1.2)
+front_track:    {value: 0.6339, src: cad}
+m_chassis:      {value: 113.0, src: assumed}   # total robot 125 kg nominal (user: 100-150 kg total) = chassis + bogie
+m_bogie:        {value: 12.0,  src: assumed}
+chassis_com_a:  {value: 0.57, src: assumed}   # CoM distance from pivot toward front
+pivot_coulomb:  {value: 0.5,   src: assumed}   # N m  (SWEEP)
+pivot_viscous:  {value: 0.2,   src: assumed}   # N m s/rad
+theta_max_deg:  {value: 70.0,  src: assumed}
+mu:             {value: 0.8,   src: assumed}
+omega_max:      {value: 57.8, src: derived}   # 26 km/h / r; the robot will run far slower
+tau_max:        {value: 6.1, src: derived}   # P/omega = 350 W / 57.8 rad/s; continuous estimate, NOT a datasheet value; peak unknown (sweep 3-12)
+m_wheel:        {value: 2.96, src: datasheet}   # per hub motor, datasheet weight
+chassis_com_h:  {value: 0.35,  src: assumed}   # chassis CoM height above ground
+tyre_halfwidth: {value: 0.0125, src: user}   # 25 mm tyre, ~10 mm contact (user)
+pivot_trail_e:  {value: 0.0, src: cad}   # rear axle sits e metres BEHIND the pivot (caster trail); e>0 trailing. SWEEP

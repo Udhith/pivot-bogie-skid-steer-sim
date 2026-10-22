@@ -1,0 +1,115 @@
+X1 pid 0.2 0.0 0.037 False
+X1 pid 0.2 2.0 0.037 False
+X1 pid 0.2 5.0 0.039 False
+X1 pid 0.2 8.0 0.04 False
+X1 pid 0.2 10.0 0.041 False
+X1 pid 0.2 12.0 0.041 False
+X1 pid 0.2 16.0 1.676 True
+X1 pid 0.4 0.0 0.036 False
+X1 pid 0.4 2.0 0.035 False
+X1 pid 0.4 5.0 0.034 False
+X1 pid 0.4 8.0 0.034 False
+X1 pid 0.4 10.0 0.034 False
+X1 pid 0.4 12.0 0.035 False
+X1 pid 0.4 16.0 1.821 True
+X1 pid 0.8 0.0 0.035 False
+X1 pid 0.8 2.0 0.034 False
+X1 pid 0.8 5.0 0.032 False
+X1 pid 0.8 8.0 0.03 False
+X1 pid 0.8 10.0 1.162 True
+X1 pid 0.8 12.0 1.252 True
+X1 pid 0.8 16.0 1.826 True
+X1 nonlinear 0.2 0.0 0.021 False
+X1 nonlinear 0.2 2.0 0.024 False
+X1 nonlinear 0.2 5.0 0.027 False
+X1 nonlinear 0.2 8.0 0.03 False
+X1 nonlinear 0.2 10.0 0.031 False
+X1 nonlinear 0.2 12.0 0.025 False
+X1 nonlinear 0.2 16.0 1.898 True
+X1 nonlinear 0.4 0.0 0.021 False
+X1 nonlinear 0.4 2.0 0.025 False
+X1 nonlinear 0.4 5.0 0.029 False
+X1 nonlinear 0.4 8.0 0.032 False
+X1 nonlinear 0.4 10.0 0.032 False
+X1 nonlinear 0.4 12.0 0.044 False
+X1 nonlinear 0.4 16.0 1.978 True
+X1 nonlinear 0.8 0.0 0.023 False
+X1 nonlinear 0.8 2.0 0.028 False
+X1 nonlinear 0.8 5.0 0.031 False
+X1 nonlinear 0.8 8.0 0.026 False
+X1 nonlinear 0.8 10.0 1.309 True
+X1 nonlinear 0.8 12.0 1.412 True
+X1 nonlinear 0.8 16.0 1.696 True
+X2 0 pid 0.033 False
+X2 0 nonlinear 0.023 False
+X2 1 pid 0.033 False
+X2 1 nonlinear 0.029 False
+X2 2 pid 0.033 False
+X2 2 nonlinear 0.024 False
+X2 3 pid 0.029 False
+X2 3 nonlinear 0.029 False
+X2 4 pid 0.034 False
+X2 4 nonlinear 0.033 False
+X2 5 pid 0.033 False
+X2 5 nonlinear 0.026 False
+X2 6 pid 0.033 False
+X2 6 nonlinear 0.033 False
+X2 7 pid 0.035 False
+X2 7 nonlinear 0.022 False
+X2 8 pid 0.026 False
+X2 8 nonlinear 0.038 False
+X2 9 pid 0.031 False
+X2 9 nonlinear 0.025 False
+X2 10 pid 0.036 False
+X2 10 nonlinear 0.022 False
+X2 11 pid 0.036 False
+X2 11 nonlinear 0.023 False
+X2 12 pid 0.034 False
+X2 12 nonlinear 0.027 False
+X2 13 pid 0.031 False
+X2 13 nonlinear 0.026 False
+X2 14 pid 0.021 False
+X2 14 nonlinear 0.035 False
+X2 15 pid 0.032 False
+X2 15 nonlinear 0.035 False
+X2 16 pid 0.033 False
+X2 16 nonlinear 0.026 False
+X2 17 pid 0.034 False
+X2 17 nonlinear 0.029 False
+X2 18 pid 0.035 False
+X2 18 nonlinear 0.03 False
+X2 19 pid 0.035 False
+X2 19 nonlinear 0.029 False
+X3 straight pid True 2.585
+X3 straight pid False 3.421
+X3 straight nonlinear True 1.965
+X3 straight nonlinear False 2.385
+X3 circle pid True 0.141
+X3 circle pid False 0.218
+X3 circle nonlinear True 0.14
+X3 circle nonlinear False 0.235
+X3 eight pid True 0.734
+X3 eight pid False 1.121
+X3 eight nonlinear True 0.733
+X3 eight nonlinear False 1.121
+X4 0.3 -0.1 84.13
+X4 0.3 -0.05 52.46
+X4 0.3 0.0 23.02
+X4 0.3 0.05 11.48
+X4 0.3 0.1 5.6
+X4 0.3 0.2 4.72
+X4 0.3 0.3 2.58
+X4 0.5 -0.1 74.63
+X4 0.5 -0.05 53.27
+X4 0.5 0.0 23.02
+X4 0.5 0.05 13.79
+X4 0.5 0.1 11.71
+X4 0.5 0.2 5.58
+X4 0.5 0.3 2.69
+X4 0.8 -0.1 75.33
+X4 0.8 -0.05 54.07
+X4 0.8 0.0 23.02
+X4 0.8 0.05 15.25
+X4 0.8 0.1 16.74
+X4 0.8 0.2 6.02
+X4 0.8 0.3 4.69

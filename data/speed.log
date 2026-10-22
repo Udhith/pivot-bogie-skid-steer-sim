@@ -1,0 +1,10 @@
+{'test': 'ramp', 'ctrl': 'pid', 'v': 2.0, 'ramp': 2.0, 'offset': 0.15, 'xtrack_max': 1.6369682010002904, 'align_rmse_deg': 107.95071784264194, 'slip_rms': 0.03042129196191992, 'fail': True}
+{'test': 'ramp', 'ctrl': 'pid', 'v': 2.0, 'ramp': 6.0, 'offset': 0.15, 'xtrack_max': 0.03085727201157435, 'align_rmse_deg': 1.6997597423264104, 'slip_rms': 0.024249986946486515, 'fail': False}
+{'test': 'limit', 'ctrl': 'pid', 'v': 2.5, 'ramp': 12.0, 'offset': 0.0, 'xtrack_max': 0.07051639456609392, 'align_rmse_deg': 2.8130291094527067, 'slip_rms': 0.0392492462219764, 'fail': False}
+{'test': 'limit', 'ctrl': 'pid', 'v': 3.0, 'ramp': 12.0, 'offset': 0.0, 'xtrack_max': 3.1501254480013245, 'align_rmse_deg': 88.37373921662677, 'slip_rms': 0.19300722322785585, 'fail': True}
+{'test': 'limit', 'ctrl': 'pid', 'v': 3.5, 'ramp': 12.0, 'offset': 0.0, 'xtrack_max': 3.4454871879826015, 'align_rmse_deg': 84.27914091095091, 'slip_rms': 0.29533768340922706, 'fail': True}
+{'test': 'ramp', 'ctrl': 'nonlinear', 'v': 2.0, 'ramp': 2.0, 'offset': 0.15, 'xtrack_max': 3.1044924966862437, 'align_rmse_deg': 70.4006291025246, 'slip_rms': 0.00720822991208609, 'fail': True}
+{'test': 'ramp', 'ctrl': 'nonlinear', 'v': 2.0, 'ramp': 6.0, 'offset': 0.15, 'xtrack_max': 0.021675586563238456, 'align_rmse_deg': 1.6662669402491812, 'slip_rms': 0.024077968801439316, 'fail': False}
+{'test': 'limit', 'ctrl': 'nonlinear', 'v': 2.5, 'ramp': 12.0, 'offset': 0.0, 'xtrack_max': 0.04005896658440271, 'align_rmse_deg': 2.634599019975194, 'slip_rms': 0.03804438929267841, 'fail': False}
+{'test': 'limit', 'ctrl': 'nonlinear', 'v': 3.0, 'ramp': 12.0, 'offset': 0.0, 'xtrack_max': 0.08420819640996931, 'align_rmse_deg': 5.079008845212327, 'slip_rms': 0.05920754993840348, 'fail': False}
+{'test': 'limit', 'ctrl': 'nonlinear', 'v': 3.5, 'ramp': 12.0, 'offset': 0.0, 'xtrack_max': 1.9410486257641455, 'align_rmse_deg': 95.97411166239009, 'slip_rms': 0.13452830395607043, 'fail': True}

@@ -1,0 +1,90 @@
+dt        circle/pid/dt=0.001/elliptic/imp=10 xtr_rms=0.0064 xtr_max=0.035 pos_max=0.037 sat=0.000 align_rms=0.14 thmax=32.5 FAIL=False
+dt        circle/pid/dt=0.001/pyramidal/imp=10 xtr_rms=0.0064 xtr_max=0.035 pos_max=0.038 sat=0.000 align_rms=0.50 thmax=31.7 FAIL=False
+dt        circle/pid/dt=0.001/elliptic/imp=1 xtr_rms=0.0069 xtr_max=0.035 pos_max=0.037 sat=0.000 align_rms=0.28 thmax=29.8 FAIL=False
+dt        circle/pid/dt=0.002/elliptic/imp=10 xtr_rms=0.0063 xtr_max=0.035 pos_max=0.037 sat=0.000 align_rms=0.14 thmax=32.5 FAIL=False
+dt        circle/pid/dt=0.002/pyramidal/imp=10 xtr_rms=0.0061 xtr_max=0.035 pos_max=0.037 sat=0.000 align_rms=0.63 thmax=31.7 FAIL=False
+dt        circle/pid/dt=0.002/elliptic/imp=1 xtr_rms=0.0069 xtr_max=0.035 pos_max=0.036 sat=0.000 align_rms=0.28 thmax=29.8 FAIL=False
+dt        circle/pid/dt=0.004/elliptic/imp=10 xtr_rms=0.0062 xtr_max=0.034 pos_max=0.036 sat=0.000 align_rms=0.14 thmax=32.5 FAIL=False
+dt        circle/pid/dt=0.004/pyramidal/imp=10 xtr_rms=0.0075 xtr_max=0.032 pos_max=0.037 sat=0.000 align_rms=0.93 thmax=32.0 FAIL=False
+dt        circle/pid/dt=0.004/elliptic/imp=1 xtr_rms=0.0067 xtr_max=0.034 pos_max=0.036 sat=0.000 align_rms=0.27 thmax=29.8 FAIL=False
+dt        circle/nonlinear/dt=0.001/elliptic/imp=10 xtr_rms=0.0071 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+dt        circle/nonlinear/dt=0.001/pyramidal/imp=10 xtr_rms=0.0081 xtr_max=0.027 pos_max=0.027 sat=0.000 align_rms=0.51 thmax=31.1 FAIL=False
+dt        circle/nonlinear/dt=0.001/elliptic/imp=1 xtr_rms=0.0068 xtr_max=0.023 pos_max=0.023 sat=0.000 align_rms=0.26 thmax=30.3 FAIL=False
+dt        circle/nonlinear/dt=0.002/elliptic/imp=10 xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+dt        circle/nonlinear/dt=0.002/pyramidal/imp=10 xtr_rms=0.0088 xtr_max=0.028 pos_max=0.028 sat=0.000 align_rms=0.71 thmax=31.2 FAIL=False
+dt        circle/nonlinear/dt=0.002/elliptic/imp=1 xtr_rms=0.0069 xtr_max=0.023 pos_max=0.023 sat=0.000 align_rms=0.26 thmax=30.3 FAIL=False
+dt        circle/nonlinear/dt=0.004/elliptic/imp=10 xtr_rms=0.0073 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+dt        circle/nonlinear/dt=0.004/pyramidal/imp=10 xtr_rms=0.0115 xtr_max=0.031 pos_max=0.031 sat=0.000 align_rms=1.08 thmax=31.4 FAIL=False
+dt        circle/nonlinear/dt=0.004/elliptic/imp=1 xtr_rms=0.0070 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.26 thmax=30.3 FAIL=False
+dt        eight/pid/dt=0.001/elliptic/imp=10 xtr_rms=0.0051 xtr_max=0.037 pos_max=0.039 sat=0.000 align_rms=0.73 thmax=30.3 FAIL=False
+dt        eight/pid/dt=0.001/pyramidal/imp=10 xtr_rms=0.0049 xtr_max=0.038 pos_max=0.040 sat=0.000 align_rms=0.76 thmax=30.3 FAIL=False
+dt        eight/pid/dt=0.001/elliptic/imp=1  xtr_rms=0.0051 xtr_max=0.037 pos_max=0.038 sat=0.000 align_rms=0.39 thmax=29.7 FAIL=False
+dt        eight/pid/dt=0.002/elliptic/imp=10 xtr_rms=0.0051 xtr_max=0.037 pos_max=0.039 sat=0.000 align_rms=0.73 thmax=30.3 FAIL=False
+dt        eight/pid/dt=0.002/pyramidal/imp=10 xtr_rms=0.0051 xtr_max=0.037 pos_max=0.039 sat=0.000 align_rms=0.92 thmax=30.4 FAIL=False
+dt        eight/pid/dt=0.002/elliptic/imp=1  xtr_rms=0.0052 xtr_max=0.037 pos_max=0.038 sat=0.000 align_rms=0.39 thmax=29.7 FAIL=False
+dt        eight/pid/dt=0.004/elliptic/imp=10 xtr_rms=0.0051 xtr_max=0.037 pos_max=0.039 sat=0.000 align_rms=0.73 thmax=30.3 FAIL=False
+dt        eight/pid/dt=0.004/pyramidal/imp=10 xtr_rms=0.0080 xtr_max=0.037 pos_max=0.039 sat=0.000 align_rms=1.23 thmax=30.4 FAIL=False
+dt        eight/pid/dt=0.004/elliptic/imp=1  xtr_rms=0.0051 xtr_max=0.037 pos_max=0.038 sat=0.000 align_rms=0.39 thmax=29.7 FAIL=False
+dt        eight/nonlinear/dt=0.001/elliptic/imp=10 xtr_rms=0.0061 xtr_max=0.025 pos_max=0.025 sat=0.000 align_rms=0.73 thmax=30.4 FAIL=False
+dt        eight/nonlinear/dt=0.001/pyramidal/imp=10 xtr_rms=0.0062 xtr_max=0.026 pos_max=0.026 sat=0.000 align_rms=0.75 thmax=30.8 FAIL=False
+dt        eight/nonlinear/dt=0.001/elliptic/imp=1 xtr_rms=0.0049 xtr_max=0.022 pos_max=0.022 sat=0.000 align_rms=0.39 thmax=30.2 FAIL=False
+dt        eight/nonlinear/dt=0.002/elliptic/imp=10 xtr_rms=0.0062 xtr_max=0.026 pos_max=0.026 sat=0.000 align_rms=0.73 thmax=30.4 FAIL=False
+dt        eight/nonlinear/dt=0.002/pyramidal/imp=10 xtr_rms=0.0068 xtr_max=0.028 pos_max=0.028 sat=0.000 align_rms=0.85 thmax=30.9 FAIL=False
+dt        eight/nonlinear/dt=0.002/elliptic/imp=1 xtr_rms=0.0050 xtr_max=0.022 pos_max=0.022 sat=0.000 align_rms=0.39 thmax=30.2 FAIL=False
+dt        eight/nonlinear/dt=0.004/elliptic/imp=10 xtr_rms=0.0064 xtr_max=0.026 pos_max=0.026 sat=0.000 align_rms=0.73 thmax=30.4 FAIL=False
+dt        eight/nonlinear/dt=0.004/pyramidal/imp=10 xtr_rms=0.0099 xtr_max=0.030 pos_max=0.030 sat=0.000 align_rms=1.19 thmax=31.0 FAIL=False
+dt        eight/nonlinear/dt=0.004/elliptic/imp=1 xtr_rms=0.0051 xtr_max=0.023 pos_max=0.023 sat=0.000 align_rms=0.40 thmax=30.2 FAIL=False
+-- dt done in 72s
+encoder   circle/bits=6                      xtr_rms=0.0101 xtr_max=0.028 pos_max=0.028 sat=0.052 align_rms=1.91 thmax=31.4 FAIL=False
+encoder   eight/bits=6                       xtr_rms=0.0091 xtr_max=0.033 pos_max=0.033 sat=0.086 align_rms=1.97 thmax=31.1 FAIL=False
+encoder   circle/bits=8                      xtr_rms=0.0074 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.56 thmax=30.3 FAIL=False
+encoder   eight/bits=8                       xtr_rms=0.0068 xtr_max=0.026 pos_max=0.026 sat=0.000 align_rms=0.87 thmax=30.3 FAIL=False
+encoder   circle/bits=10                     xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.15 thmax=30.4 FAIL=False
+encoder   eight/bits=10                      xtr_rms=0.0063 xtr_max=0.026 pos_max=0.026 sat=0.000 align_rms=0.74 thmax=30.4 FAIL=False
+encoder   circle/bits=12                     xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+encoder   eight/bits=12                      xtr_rms=0.0062 xtr_max=0.026 pos_max=0.026 sat=0.000 align_rms=0.73 thmax=30.4 FAIL=False
+encoder   circle/bits=14                     xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+encoder   eight/bits=14                      xtr_rms=0.0062 xtr_max=0.026 pos_max=0.026 sat=0.000 align_rms=0.73 thmax=30.4 FAIL=False
+encoder   circle/bits=None                   xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+encoder   eight/bits=None                    xtr_rms=0.0062 xtr_max=0.026 pos_max=0.026 sat=0.000 align_rms=0.73 thmax=30.4 FAIL=False
+-- encoder done in 21s
+delay     theta-delay 0 ms                   xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+delay     command-delay 0 ms                 xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+delay     theta-delay 10 ms                  xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+delay     command-delay 10 ms                xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+delay     theta-delay 20 ms                  xtr_rms=0.0073 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+delay     command-delay 20 ms                xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+delay     theta-delay 50 ms                  xtr_rms=0.0076 xtr_max=0.025 pos_max=0.025 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+delay     command-delay 50 ms                xtr_rms=0.0073 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.15 thmax=30.4 FAIL=False
+delay     theta-delay 100 ms                 xtr_rms=0.0080 xtr_max=0.026 pos_max=0.026 sat=0.000 align_rms=0.15 thmax=30.5 FAIL=False
+delay     command-delay 100 ms               xtr_rms=0.0071 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.15 thmax=30.3 FAIL=False
+delay     theta-delay 200 ms                 xtr_rms=0.0096 xtr_max=0.032 pos_max=0.032 sat=0.007 align_rms=1.63 thmax=40.3 FAIL=False
+delay     command-delay 200 ms               xtr_rms=0.0084 xtr_max=0.029 pos_max=0.030 sat=0.080 align_rms=9.78 thmax=45.2 FAIL=False
+delay     theta-delay 300 ms                 xtr_rms=0.0841 xtr_max=0.126 pos_max=0.210 sat=0.787 align_rms=34.48 thmax=73.0 FAIL=True
+delay     command-delay 300 ms               xtr_rms=0.1046 xtr_max=0.188 pos_max=0.266 sat=0.779 align_rms=36.39 thmax=73.2 FAIL=True
+-- delay done in 17s
+slope     cross-slope 0 deg/pid              xtr_rms=0.0063 xtr_max=0.035 pos_max=0.037 sat=0.000 align_rms=0.14 thmax=32.5 FAIL=False
+slope     cross-slope 0 deg/nonlinear        xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+slope     cross-slope 1 deg/pid              xtr_rms=0.0063 xtr_max=0.035 pos_max=0.038 sat=0.000 align_rms=0.14 thmax=32.5 FAIL=False
+slope     cross-slope 1 deg/nonlinear        xtr_rms=0.0071 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+slope     cross-slope 2 deg/pid              xtr_rms=0.0064 xtr_max=0.035 pos_max=0.038 sat=0.000 align_rms=0.14 thmax=32.5 FAIL=False
+slope     cross-slope 2 deg/nonlinear        xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+slope     cross-slope 4 deg/pid              xtr_rms=0.0064 xtr_max=0.035 pos_max=0.040 sat=0.000 align_rms=0.14 thmax=32.5 FAIL=False
+slope     cross-slope 4 deg/nonlinear        xtr_rms=0.0070 xtr_max=0.023 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.3 FAIL=False
+slope     cross-slope 6 deg/pid              xtr_rms=0.0063 xtr_max=0.035 pos_max=0.042 sat=0.201 align_rms=0.46 thmax=32.5 FAIL=False
+slope     cross-slope 6 deg/nonlinear        xtr_rms=0.0079 xtr_max=0.023 pos_max=0.024 sat=0.178 align_rms=0.60 thmax=30.6 FAIL=False
+slope     cross-slope 7 deg/pid              xtr_rms=0.0107 xtr_max=0.035 pos_max=0.058 sat=0.280 align_rms=2.06 thmax=32.5 FAIL=False
+slope     cross-slope 7 deg/nonlinear        xtr_rms=0.0207 xtr_max=0.058 pos_max=0.078 sat=0.317 align_rms=2.30 thmax=31.4 FAIL=False
+slope     cross-slope 8 deg/pid              xtr_rms=0.4366 xtr_max=1.887 pos_max=2.101 sat=0.509 align_rms=41.68 thmax=70.1 FAIL=True
+slope     cross-slope 8 deg/nonlinear        xtr_rms=0.4006 xtr_max=1.677 pos_max=1.839 sat=0.537 align_rms=37.31 thmax=70.1 FAIL=True
+-- slope done in 17s
+slope2    slope 6 deg, tau_max 6.1           xtr_rms=0.0079 xtr_max=0.023 pos_max=0.024 sat=0.178 align_rms=0.60 thmax=30.6 FAIL=False
+slope2    slope 6 deg, tau_max 9.0           xtr_rms=0.0069 xtr_max=0.023 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.3 FAIL=False
+slope2    slope 6 deg, tau_max 12.0          xtr_rms=0.0069 xtr_max=0.023 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.3 FAIL=False
+slope2    slope 8 deg, tau_max 6.1           xtr_rms=0.4006 xtr_max=1.677 pos_max=1.839 sat=0.537 align_rms=37.31 thmax=70.1 FAIL=True
+slope2    slope 8 deg, tau_max 9.0           xtr_rms=0.0070 xtr_max=0.023 pos_max=0.025 sat=0.000 align_rms=0.14 thmax=30.3 FAIL=False
+slope2    slope 8 deg, tau_max 12.0          xtr_rms=0.0070 xtr_max=0.023 pos_max=0.025 sat=0.000 align_rms=0.14 thmax=30.3 FAIL=False
+slope2    slope 10 deg, tau_max 6.1          xtr_rms=0.8932 xtr_max=2.477 pos_max=3.060 sat=0.793 align_rms=54.35 thmax=70.7 FAIL=True
+slope2    slope 10 deg, tau_max 9.0          xtr_rms=0.0069 xtr_max=0.023 pos_max=0.026 sat=0.142 align_rms=0.33 thmax=30.7 FAIL=False
+slope2    slope 10 deg, tau_max 12.0         xtr_rms=0.0069 xtr_max=0.023 pos_max=0.026 sat=0.000 align_rms=0.14 thmax=30.3 FAIL=False
+-- slope2 done in 10s

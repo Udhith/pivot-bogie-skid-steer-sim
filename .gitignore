@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+*.bak
+*.egg-info/
+.DS_Store
+
+# LaTeX build files and paper-editing scripts
+paper/*.aux
+paper/*.log
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.out
+paper/*.bbl
+paper/*.blg
+paper/lit_patch.py
+paper/patch*.py
+paper/mkdocx.py
+paper/extra_tests.py
+paper/pivot_bogie_ieee.*

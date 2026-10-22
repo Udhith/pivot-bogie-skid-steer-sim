@@ -1,0 +1,82 @@
+steps     step 0 mm/pid                      xtr_rms=0.0063 xtr_max=0.035 pos_max=0.037 sat=0.000 align_rms=0.14 thmax=32.5 FAIL=False
+steps     step 0 mm/nonlinear                xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+steps     step 10 mm/pid                     xtr_rms=0.0081 xtr_max=0.035 pos_max=0.037 sat=0.009 align_rms=1.52 thmax=33.3 FAIL=False
+steps     step 10 mm/nonlinear               xtr_rms=0.0110 xtr_max=0.029 pos_max=0.029 sat=0.004 align_rms=1.45 thmax=35.4 FAIL=False
+steps     step 20 mm/pid                     xtr_rms=0.0084 xtr_max=0.035 pos_max=0.037 sat=0.003 align_rms=2.28 thmax=37.6 FAIL=False
+steps     step 20 mm/nonlinear               xtr_rms=0.0115 xtr_max=0.030 pos_max=0.030 sat=0.005 align_rms=2.28 thmax=39.4 FAIL=False
+steps     step 40 mm/pid                     xtr_rms=0.0179 xtr_max=0.053 pos_max=0.139 sat=0.061 align_rms=6.11 thmax=49.4 FAIL=False
+steps     step 40 mm/nonlinear               xtr_rms=0.0519 xtr_max=0.166 pos_max=0.177 sat=0.067 align_rms=7.69 thmax=53.8 FAIL=False
+steps     step 60 mm/pid                     xtr_rms=0.0362 xtr_max=0.046 pos_max=3.964 sat=0.741 align_rms=61.96 thmax=58.9 FAIL=True
+steps     step 60 mm/nonlinear               xtr_rms=0.0539 xtr_max=0.058 pos_max=3.943 sat=0.742 align_rms=61.75 thmax=51.4 FAIL=True
+steps     step 80 mm/pid                     xtr_rms=0.0727 xtr_max=0.079 pos_max=3.922 sat=0.741 align_rms=61.30 thmax=64.2 FAIL=True
+steps     step 80 mm/nonlinear               xtr_rms=0.1109 xtr_max=0.123 pos_max=3.881 sat=0.743 align_rms=56.87 thmax=72.1 FAIL=True
+-- steps done in 14s
+payload   a 0.57->0.57, dm 0/pid             xtr_rms=0.0063 xtr_max=0.035 pos_max=0.037 sat=0.000 align_rms=0.14 thmax=32.5 FAIL=False
+payload   a 0.57->0.57, dm 0/nonlinear       xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+payload   a 0.57->0.57, dm -50/pid           xtr_rms=0.0064 xtr_max=0.035 pos_max=0.037 sat=0.000 align_rms=0.14 thmax=32.5 FAIL=False
+payload   a 0.57->0.57, dm -50/nonlinear     xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.13 thmax=30.3 FAIL=False
+payload   a 0.57->0.4, dm 0/pid              xtr_rms=0.0063 xtr_max=0.035 pos_max=0.037 sat=0.000 align_rms=0.16 thmax=32.5 FAIL=False
+payload   a 0.57->0.4, dm 0/nonlinear        xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.15 thmax=30.4 FAIL=False
+payload   a 0.57->0.4, dm -50/pid            xtr_rms=0.0064 xtr_max=0.035 pos_max=0.037 sat=0.000 align_rms=0.14 thmax=32.5 FAIL=False
+payload   a 0.57->0.4, dm -50/nonlinear      xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.13 thmax=30.3 FAIL=False
+payload   a 0.57->0.8, dm 0/pid              xtr_rms=0.0064 xtr_max=0.035 pos_max=0.037 sat=0.000 align_rms=0.13 thmax=32.5 FAIL=False
+payload   a 0.57->0.8, dm 0/nonlinear        xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.13 thmax=30.3 FAIL=False
+payload   a 0.57->0.8, dm -50/pid            xtr_rms=0.0065 xtr_max=0.035 pos_max=0.037 sat=0.000 align_rms=0.15 thmax=32.5 FAIL=False
+payload   a 0.57->0.8, dm -50/nonlinear      xtr_rms=0.0073 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.3 FAIL=False
+payload   a 0.3->0.85, dm 0/pid              xtr_rms=0.0065 xtr_max=0.035 pos_max=0.037 sat=0.000 align_rms=0.27 thmax=32.5 FAIL=False
+payload   a 0.3->0.85, dm 0/nonlinear        xtr_rms=0.0073 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.27 thmax=31.4 FAIL=False
+payload   a 0.3->0.85, dm -50/pid            xtr_rms=0.0064 xtr_max=0.035 pos_max=0.037 sat=0.000 align_rms=0.30 thmax=32.5 FAIL=False
+payload   a 0.3->0.85, dm -50/nonlinear      xtr_rms=0.0074 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.31 thmax=31.4 FAIL=False
+payload   a 0.3->0.85 at 100 kg              xtr_rms=0.0070 xtr_max=0.023 pos_max=0.023 sat=0.000 align_rms=0.22 thmax=31.1 FAIL=False
+payload   a 0.3->0.85 at 150 kg              xtr_rms=0.0076 xtr_max=0.025 pos_max=0.025 sat=0.000 align_rms=0.30 thmax=31.6 FAIL=False
+-- payload done in 24s
+reverse   reverse straight                   xtr_rms=0.0076 xtr_max=0.020 pos_max=0.020 sat=0.000 align_rms=1.31 thmax=21.6 FAIL=False
+reverse   reverse circle                     xtr_rms=0.0052 xtr_max=0.017 pos_max=0.017 sat=0.000 align_rms=0.12 thmax=30.2 FAIL=False
+reverse   reverse eight                      xtr_rms=0.0061 xtr_max=0.025 pos_max=0.025 sat=0.000 align_rms=0.60 thmax=32.7 FAIL=False
+reverse   reverse circle kth=0.0             xtr_rms=0.0101 xtr_max=0.043 pos_max=0.043 sat=0.447 align_rms=0.89 thmax=30.1 FAIL=False
+reverse   reverse circle kth=0.3             xtr_rms=0.0062 xtr_max=0.019 pos_max=0.020 sat=0.000 align_rms=0.59 thmax=30.3 FAIL=False
+reverse   reverse circle kth=1.0             xtr_rms=0.0059 xtr_max=0.018 pos_max=0.018 sat=0.000 align_rms=0.41 thmax=30.3 FAIL=False
+-- reverse done in 7s
+stiction  Fc=0.5 Fs/Fc=1 mu=0.8              xtr_rms=0.0072 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.14 thmax=30.4 FAIL=False
+stiction  Fc=0.5 Fs/Fc=1 mu=0.4              xtr_rms=0.0066 xtr_max=0.022 pos_max=0.022 sat=0.000 align_rms=0.15 thmax=30.3 FAIL=False
+stiction  Fc=0.5 Fs/Fc=2 mu=0.8              xtr_rms=0.0073 xtr_max=0.025 pos_max=0.025 sat=0.000 align_rms=0.26 thmax=30.5 FAIL=False
+stiction  Fc=0.5 Fs/Fc=2 mu=0.4              xtr_rms=0.0067 xtr_max=0.023 pos_max=0.023 sat=0.000 align_rms=0.26 thmax=30.4 FAIL=False
+stiction  Fc=0.5 Fs/Fc=4 mu=0.8              xtr_rms=0.0076 xtr_max=0.026 pos_max=0.026 sat=0.000 align_rms=0.54 thmax=30.6 FAIL=False
+stiction  Fc=0.5 Fs/Fc=4 mu=0.4              xtr_rms=0.0070 xtr_max=0.024 pos_max=0.024 sat=0.000 align_rms=0.53 thmax=30.4 FAIL=False
+stiction  Fc=2.0 Fs/Fc=1 mu=0.8              xtr_rms=0.0081 xtr_max=0.028 pos_max=0.028 sat=0.000 align_rms=0.56 thmax=31.7 FAIL=False
+stiction  Fc=2.0 Fs/Fc=1 mu=0.4              xtr_rms=0.0073 xtr_max=0.025 pos_max=0.025 sat=0.000 align_rms=0.56 thmax=30.6 FAIL=False
+stiction  Fc=2.0 Fs/Fc=2 mu=0.8              xtr_rms=0.0083 xtr_max=0.029 pos_max=0.029 sat=0.001 align_rms=0.86 thmax=31.9 FAIL=False
+stiction  Fc=2.0 Fs/Fc=2 mu=0.4              xtr_rms=0.0073 xtr_max=0.026 pos_max=0.026 sat=0.000 align_rms=0.84 thmax=30.6 FAIL=False
+stiction  Fc=2.0 Fs/Fc=4 mu=0.8              xtr_rms=0.0087 xtr_max=0.030 pos_max=0.030 sat=0.092 align_rms=2.28 thmax=32.6 FAIL=False
+stiction  Fc=2.0 Fs/Fc=4 mu=0.4              xtr_rms=0.0076 xtr_max=0.022 pos_max=0.022 sat=0.000 align_rms=1.83 thmax=33.1 FAIL=False
+stiction  Fc=5.0 Fs/Fc=1 mu=0.8              xtr_rms=0.0097 xtr_max=0.031 pos_max=0.031 sat=0.011 align_rms=1.41 thmax=32.5 FAIL=False
+stiction  Fc=5.0 Fs/Fc=1 mu=0.4              xtr_rms=0.0092 xtr_max=0.029 pos_max=0.029 sat=0.000 align_rms=1.39 thmax=31.5 FAIL=False
+stiction  Fc=5.0 Fs/Fc=2 mu=0.8              xtr_rms=0.3808 xtr_max=1.108 pos_max=1.290 sat=0.789 align_rms=51.96 thmax=45.6 FAIL=True
+stiction  Fc=5.0 Fs/Fc=2 mu=0.4              xtr_rms=0.0088 xtr_max=0.029 pos_max=0.029 sat=0.008 align_rms=2.04 thmax=32.4 FAIL=False
+stiction  Fc=5.0 Fs/Fc=4 mu=0.8              xtr_rms=3.4862 xtr_max=4.900 pos_max=8.437 sat=0.993 align_rms=45.05 thmax=18.8 FAIL=True
+stiction  Fc=5.0 Fs/Fc=4 mu=0.4              xtr_rms=3.7802 xtr_max=5.664 pos_max=8.186 sat=0.993 align_rms=51.84 thmax=15.0 FAIL=True
+-- stiction done in 22s
+startstop stop in 0.5 s, 100 kg/pid          xtr_rms=0.0146 xtr_max=0.035 pos_max=0.230 sat=0.024 align_rms=4.87 thmax=65.8 FAIL=False
+startstop stop in 0.1 s, 100 kg/pid          xtr_rms=0.0160 xtr_max=0.036 pos_max=0.264 sat=0.041 align_rms=7.23 thmax=66.5 FAIL=False
+startstop stop in 0.5 s, 100 kg/nonlinear    xtr_rms=0.0118 xtr_max=0.026 pos_max=0.226 sat=0.015 align_rms=2.76 thmax=64.8 FAIL=False
+startstop stop in 0.1 s, 100 kg/nonlinear    xtr_rms=0.0109 xtr_max=0.023 pos_max=0.246 sat=0.024 align_rms=2.94 thmax=65.1 FAIL=False
+startstop stop in 0.5 s, 125 kg/pid          xtr_rms=0.0141 xtr_max=0.035 pos_max=0.239 sat=0.060 align_rms=6.15 thmax=66.8 FAIL=False
+startstop stop in 0.1 s, 125 kg/pid          xtr_rms=0.0164 xtr_max=0.037 pos_max=0.283 sat=0.065 align_rms=7.94 thmax=66.7 FAIL=False
+startstop stop in 0.5 s, 125 kg/nonlinear    xtr_rms=0.0114 xtr_max=0.024 pos_max=0.231 sat=0.038 align_rms=2.90 thmax=65.0 FAIL=False
+startstop stop in 0.1 s, 125 kg/nonlinear    xtr_rms=0.0108 xtr_max=0.024 pos_max=0.259 sat=0.047 align_rms=3.15 thmax=65.3 FAIL=False
+startstop stop in 0.5 s, 150 kg/pid          xtr_rms=0.0136 xtr_max=0.034 pos_max=0.259 sat=0.085 align_rms=7.45 thmax=66.7 FAIL=False
+startstop stop in 0.1 s, 150 kg/pid          xtr_rms=0.0164 xtr_max=0.037 pos_max=0.306 sat=0.086 align_rms=8.62 thmax=66.7 FAIL=False
+startstop stop in 0.5 s, 150 kg/nonlinear    xtr_rms=0.0103 xtr_max=0.025 pos_max=0.237 sat=0.064 align_rms=3.30 thmax=65.6 FAIL=False
+startstop stop in 0.1 s, 150 kg/nonlinear    xtr_rms=0.0108 xtr_max=0.025 pos_max=0.276 sat=0.060 align_rms=3.41 thmax=65.5 FAIL=False
+-- startstop done in 12s
+modeA     ModeA circle R=2.0 kz=2.0          xtr_rms=0.0075 xtr_max=0.026 pos_max=0.026 sat=0.000 align_rms=0.35 thmax=30.5 FAIL=False
+modeA     ModeA circle R=2.0 kz=6.0          xtr_rms=0.0076 xtr_max=0.025 pos_max=0.025 sat=0.032 align_rms=0.14 thmax=30.5 FAIL=False
+modeA     ModeA circle R=3.0 kz=2.0          xtr_rms=0.0068 xtr_max=0.021 pos_max=0.021 sat=0.008 align_rms=0.53 thmax=21.6 FAIL=False
+modeA     ModeA circle R=3.0 kz=6.0          xtr_rms=0.0065 xtr_max=0.022 pos_max=0.022 sat=0.032 align_rms=0.13 thmax=21.5 FAIL=False
+modeA     ModeA circle R=4.0 kz=2.0          xtr_rms=0.0058 xtr_max=0.017 pos_max=0.017 sat=0.009 align_rms=1.27 thmax=21.4 FAIL=False
+modeA     ModeA circle R=4.0 kz=6.0          xtr_rms=0.0062 xtr_max=0.021 pos_max=0.021 sat=0.032 align_rms=0.14 thmax=20.8 FAIL=False
+modeA     ModeA eight R=2.0 kz=2.0           xtr_rms=0.0134 xtr_max=0.038 pos_max=0.038 sat=0.006 align_rms=2.08 thmax=35.8 FAIL=False
+modeA     ModeA eight R=2.0 kz=6.0           xtr_rms=0.0062 xtr_max=0.026 pos_max=0.026 sat=0.016 align_rms=0.69 thmax=30.4 FAIL=False
+modeA     ModeA straight R=2.0 kz=2.0        xtr_rms=0.0139 xtr_max=0.024 pos_max=0.024 sat=0.020 align_rms=4.64 thmax=19.1 FAIL=False
+modeA     ModeA straight R=2.0 kz=6.0        xtr_rms=0.0059 xtr_max=0.010 pos_max=0.010 sat=0.048 align_rms=1.79 thmax=20.8 FAIL=False
+-- modeA done in 12s

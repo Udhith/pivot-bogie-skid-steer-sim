@@ -112,13 +112,6 @@ Change them in `params.yaml` and re-run to see how the results move.
 - The standstill mode was added after seeing the creep problem at restart, so it is a fix tuned on those cases.
 - Controller gains were set by hand and are the same for every test. They are not optimised.
 
-## Screenshots
-
-| | |
-|---|---|
-| ![Screenshot 1](docs/images/screenshot1.png) | ![Screenshot 2](docs/images/screenshot2.png) |
-| ![Screenshot 3](docs/images/screenshot3.png) | ![Screenshot 4](docs/images/screenshot4.png) |
-
 ## Paper
 
 The method and results are written up in a paper (draft). Link to be added.
